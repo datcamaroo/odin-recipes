@@ -1,0 +1,26 @@
+.title {
+    color: rgb(176, 247, 13);
+}
+
+.recipe-title {
+    color: rgb(101, 18, 255);
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.mainbody {
+    background-color: rgb(119, 126, 145);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bodybc {
+    background-color: rgb(127, 155, 95);
+    font-family: verdana, sans-serif;
+    color: black
+}
+.centerimg {
+    text-align: center;
+}
